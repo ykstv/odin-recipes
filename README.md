@@ -1,3 +1,3 @@
 # odin-recipes
 
-hubly coded in Ukraine during war
+humbly coded in Ukraine during war
