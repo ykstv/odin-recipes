@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    font-style: italic;
+}
+
+h1, h2, h3 {
+    color: darkgreen;
+}
+
+.mainnav {
+    font-style: normal;
+}
